@@ -227,22 +227,6 @@ A scalable backend API for multi-vendor e-commerce platforms.
 **Tech Stack:** Laravel • MySQL • Redis • Docker
 
 > 🔗 Repository: *Coming Soon*
-
----
-
-## 🔹 Prayer Reminder
-
-Android application.
-
-### Features
-
-- Prayer Times API
-- AlarmManager
-- Notifications
-- Location
-- Background Tasks
-
-🔗 https://github.com/YOUR_GITHUB_USERNAME
 ---
 
 # 🏅 GitHub Achievements
