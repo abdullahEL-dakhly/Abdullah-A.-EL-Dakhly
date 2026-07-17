@@ -51,13 +51,11 @@ Backend Laravel Developer • Kotlin Android Learner • REST API Enthusiast
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Metrics
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullahEL-dakhly/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullahEL-dakhly/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/abdullahEL-dakhly/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+<img src="./github-metrics.svg"/>
+</p>
 
 ---
 
