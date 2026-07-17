@@ -185,7 +185,6 @@ Android application.
 - Background Tasks
 
 🔗 https://github.com/YOUR_GITHUB_USERNAME
-
 ---
 
 # 🏅 GitHub Achievements
