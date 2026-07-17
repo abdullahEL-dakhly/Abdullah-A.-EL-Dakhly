@@ -198,22 +198,11 @@ Keep coding every day and unlock more GitHub achievements 🚀
 
 ---
 
-# 📜 Certifications
-
-Coming Soon...
-
-- Laravel
-- Kotlin
-- Google
-- Meta
-
----
-
 # 🌍 Connect With Me
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/abdullah-a-el-dakhly-683098366">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
