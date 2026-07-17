@@ -141,84 +141,75 @@ src="https://raw.githubusercontent.com/abdullahEL-dakhly/Abdullah-A.-EL-Dakhly/o
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=FF2D20&center=true&vCenter=true&width=500&lines=My+Featured+Projects;Laravel+%7C+Kotlin+%7C+Android"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=FF2D20&center=true&vCenter=true&width=700&lines=Featured+Projects;Laravel+%7C+Kotlin+%7C+REST+API"/>
 
 </div>
 
-<table>
+<table align="center">
+
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<h3 align="center">🚀 Laravel REST API</h3>
+<h3>🚀 Laravel REST API</h3>
 
-<p align="center">
+<img
+height="180"
+src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="180"/>
+<br><br>
 
-</p>
+<img src="https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel"/>
 
-### ✨ Features
-
-- 🔐 JWT Authentication
-- 👥 Roles & Permissions
-- 📦 REST API
-- ✅ Validation
-- 🗂 Repository Pattern
-- 📖 Swagger Documentation
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
-<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
 
-</p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
 
-<p align="center">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+
+</br>
+
+Authentication • Authorization • REST API • Swagger • Repository Pattern
+
+<br><br>
 
 <a href="#">
-<img src="https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github"/>
-</a>
 
-</p>
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+
+</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<h3 align="center">📧 Gmail Cleaner</h3>
+<h3>📧 Gmail Cleaner</h3>
 
-<p align="center">
+<img
+height="180"
+src="https://media.tenor.com/2uyENRmiUt0AAAAC/android-studio.gif"/>
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="180"/>
-
-</p>
-
-### ✨ Features
-
-- 🔑 Gmail API
-- 🔒 OAuth 2.0
-- 🧠 MVVM
-- 🌐 Retrofit
-- 💾 Room
-- ⚡ Coroutines
-
-<p align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android"/>
-<img src="https://img.shields.io/badge/Compose-blue?style=for-the-badge"/>
 
-</p>
+<img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android"/>
 
-<p align="center">
+<img src="https://img.shields.io/badge/Compose-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail"/>
+
+</br>
+
+OAuth2 • Gmail API • MVVM • Retrofit • Room
+
+<br><br>
 
 <a href="#">
-<img src="https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github"/>
-</a>
 
-</p>
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+
+</a>
 
 </td>
 
@@ -226,76 +217,63 @@ src="https://raw.githubusercontent.com/abdullahEL-dakhly/Abdullah-A.-EL-Dakhly/o
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<h3 align="center">🕌 Prayer Reminder</h3>
+<h3>🕌 Prayer Reminder</h3>
 
-<p align="center">
+<img
+height="180"
+src="https://media.tenor.com/2uyENRmiUt0AAAAC/android-studio.gif"/>
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="180"/>
-
-</p>
-
-### ✨ Features
-
-- 🕌 Prayer Times
-- 🔔 Notifications
-- ⏰ AlarmManager
-- 📍 GPS
-- 🧭 Qibla
-- 🌙 Background Tasks
-
-<p align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android"/>
 
-</p>
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge"/>
 
-<p align="center">
+<img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android"/>
+
+</br>
+
+Prayer Times • AlarmManager • Notifications • GPS
+
+<br><br>
 
 <a href="#">
-<img src="https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github"/>
-</a>
 
-</p>
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+
+</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<h3 align="center">🛒 Multi Vendor API</h3>
+<h3>🛒 Multi Vendor API</h3>
 
-<p align="center">
+<img
+height="180"
+src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="180"/>
+<br><br>
 
-</p>
+<img src="https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel"/>
 
-### ✨ Features
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
 
-- 🛍 Products
-- 👨‍💼 Vendors
-- 📦 Orders
-- 💳 Payments
-- 🎟 Coupons
-- ⭐ Reviews
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
 
-<p align="center">
+</br>
 
-<img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel"/>
-<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
+Products • Orders • Vendors • Payments • Coupons
 
-</p>
-
-<p align="center">
+<br><br>
 
 <a href="#">
-<img src="https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github"/>
-</a>
 
-</p>
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+
+</a>
 
 </td>
 
