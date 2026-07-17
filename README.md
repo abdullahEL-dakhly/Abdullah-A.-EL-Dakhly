@@ -139,36 +139,94 @@ src="https://raw.githubusercontent.com/abdullahEL-dakhly/Abdullah-A.-EL-Dakhly/o
 
 # 🚀 Featured Projects
 
-## 🔹 Laravel REST API
+> Here are some of the projects I'm building and continuously improving.
 
-Backend REST API built with Laravel.
+---
+
+## 🚀 Laravel REST API Boilerplate
+
+A production-ready Laravel REST API with clean architecture and best practices.
+
+### Features
+
+- JWT Authentication
+- Roles & Permissions
+- RESTful API
+- Form Requests Validation
+- API Resources
+- Repository Pattern
+- Swagger/OpenAPI Documentation
+- Unit & Feature Testing
+
+**Tech Stack:** Laravel • PHP • MySQL • Docker • Postman
+
+> 🔗 Repository: *Coming Soon*
+
+---
+
+## 📧 Gmail Cleaner
+
+A modern Android application for organizing Gmail using the Gmail API.
+
+### Features
+
+- Google Sign-In
+- OAuth 2.0
+- Gmail API
+- Bulk Delete
+- Smart Filters
+- Labels Management
+- MVVM Architecture
+- Room Database
+- Coroutines
+- Retrofit
+
+**Tech Stack:** Kotlin • Jetpack Compose • MVVM • Room • Retrofit
+
+> 🔗 Repository: *Coming Soon*
+
+---
+
+## 🕌 Prayer Reminder
+
+An Android application that reminds users before prayer times.
+
+### Features
+
+- Prayer Times API
+- AlarmManager
+- Local Notifications
+- Qibla Direction
+- Location Services
+- Offline Prayer Schedule
+- Background Tasks
+
+**Tech Stack:** Kotlin • Jetpack Compose • Room • WorkManager
+
+> 🔗 Repository: *Coming Soon*
+
+---
+
+## 🛒 Multi Vendor E-Commerce API
+
+A scalable backend API for multi-vendor e-commerce platforms.
 
 ### Features
 
 - Authentication
-- Authorization
+- Vendor Management
+- Products
+- Categories
+- Orders
+- Payments
+- Coupons
+- Reviews
+- Admin Dashboard
 - REST API
-- Validation
-- MySQL
-- Repository Pattern
 
-🔗 https://github.com/YOUR_GITHUB_USERNAME
+**Tech Stack:** Laravel • MySQL • Redis • Docker
 
----
-
-## 🔹 Gmail Cleaner
-
-Android Application built with Kotlin.
-
-### Features
-
-- Gmail API
-- OAuth 2.0
-- MVVM
-- Retrofit
-- Room Database
-
-🔗 https://github.com/YOUR_GITHUB_USERNAME
+> 🔗 Repository: *Coming Soon*
 
 ---
 
